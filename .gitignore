@@ -1,0 +1,30 @@
+# Compilación y binarios
+*.exe
+*.dll
+*.pdb
+*.obj
+bin/
+obj/
+
+# Archivos de configuración de usuario y temporales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# Carpetas de datos locales y temporales
+.netlify/
+storage/
+*.log
+temp/
+
+# SO
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
